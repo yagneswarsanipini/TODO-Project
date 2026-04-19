@@ -1,6 +1,9 @@
 # Smart To-Do Tracker
 
-A simple and efficient task management desktop application built using Python, Tkinter, and SQLite.
+A simple and efficient task management desktop application built using Python, Tkinter, and SQLite.  
+This application helps users manage tasks with priorities, deadlines, and automated priority adjustments for better productivity.
+
+---
 
 ## 🚀 Features
 - Add, view, and delete tasks  
@@ -10,32 +13,37 @@ A simple and efficient task management desktop application built using Python, T
 - Search functionality  
 - Color-coded task display based on priority  
 
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Tkinter (GUI)  
 - SQLite (Database)  
 
+---
+
 ## ▶️ How to Run
 
-## 1. Clone the repository:
-   
+### 1. Clone the repository
+
 git clone https://github.com/yagneswarsanipini/TODO-Project.git
 
-## 2. Navigate to the folder:
+### 2. Navigate to the folder
 
 cd TODO-Project
 
-## 3. Run the application:
+### 3. Run the application
 
 python todo_ui.py
 
 ## 📸 Screenshot
 
-<img width="1919" height="675" alt="Screenshot 2026-04-19 122937" src="https://github.com/user-attachments/assets/d5a24297-7e96-4fce-ae8d-7d2e9b07b961" />
+<img width="1919" height="675" alt="Screenshot 2026-04-19 122937" src="https://github.com/user-attachments/assets/d2b1b68f-6230-412a-9150-ff6d85246765" />
 
-## 🎯 Key Highlights:
 
-Implemented CRUD operations using SQL
-Applied Object-Oriented Programming concepts
-Designed user-friendly GUI with Tkinter
-Built logic for automatic priority updates
+```markdown
+## 🎯 Key Highlights
+- Implemented CRUD operations using SQL  
+- Applied Object-Oriented Programming concepts  
+- Designed user-friendly GUI using Tkinter  
+- Built logic for automatic priority updates 
